@@ -1,0 +1,16 @@
+{
+  "name": "array-transfer",
+  "version": "0.1.0",
+  "description": "Immutably transfer value from an array to another array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": ["array", "utility", "transfer", "move"],
+  "author": "Kier Borromeo <seraphipod@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
