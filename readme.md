@@ -3,7 +3,7 @@ Immutably transfer value from an array to another array
 
 ## Installation
 ```bash
-npm i array-transfer
+npm i array-transfer --save
 ```
 
 ## Usage
