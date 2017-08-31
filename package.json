@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srph/array-transfer"
+  },
   "keywords": ["array", "utility", "transfer", "move"],
   "author": "Kier Borromeo <seraphipod@gmail.com>",
   "license": "MIT",
