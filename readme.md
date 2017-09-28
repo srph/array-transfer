@@ -1,6 +1,9 @@
 # array-transfer [![npm version](https://img.shields.io/npm/v/array-transfer.svg?style=flat-square)](https://npmjs.com/packages/array-transfer) [![Build Status](https://img.shields.io/travis/srph/array-transfer.svg?style=flat-square)](https://travis-ci.org/srph/array-transfer?branch=master)
 Immutably transfer value from an array to another array
 
+## Gotchas
+If both source and destination array are the same (e.g., you're moving an item in the same array), please use [`array-move`](https://www.npmjs.com/package/array-move) instead.
+
 ## Installation
 ```bash
 npm i array-transfer --save
